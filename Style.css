@@ -1,0 +1,40 @@
+body {background-color: #fafafa; background-color: hsl(0, 0%, 98%);}
+h3 {font-size: 1rem; font-weight: 900; margin: 1.5rem auto 0.5rem 1.5rem;font-family: 'Poppins', sans-serif;}
+img {position: relative; margin-left: 14rem; margin-top: 1rem; margin-bottom: 1rem; width: 20%; height: 20%;}
+.textinboxes {color: #a3a5ae; font-size: 12px; margin-left: 1.5rem; margin-top: 0; padding-right: 20px; font-family: 'Poppins', sans-serif;}
+.first {position: relative; text-align: center; width: 40%; margin: auto;}
+.first-line {font-size: 1.75rem; margin-top: 3rem; margin-bottom: 0;font-weight: 400; font-family: 'Poppins', sans-serif;}
+.second-line {font-size: 1.75rem; font-weight: bold; margin: 0 auto; font-family: 'Poppins', sans-serif;}
+.third-line {color: #a3a5ae; font-size: 0.85rem; font-weight: 200;font-family: 'Poppins', sans-serif;}
+.teambuilder {display: inline-block; position: relative; background-color: white; width: 23%; top: 2rem; left: 544px;
+  border-style: inset;
+  border-width: 5px 0.1px 0.1px 0.1px;
+  border-radius: 5px;
+  border-top-style: solid;
+  border-top-color:#ea5353;
+  border-top-color:hsl(0, 78%, 62%);
+  box-shadow: 0 0 1.5rem 0 #a3a5ae;}
+.supervisor {position: relative; background-color: white; width: 23%; bottom: 54px; left: 200px;
+  border-style: inset;
+  border-width: 5px 0.1px 0.1px 0.1px;
+  border-radius: 5px;
+  border-top-style: solid;
+  border-top-color:#45d3d3;
+  border-top-color:hsl(180, 62%, 55%);
+  box-shadow: 0 0 1.5rem 0 #a3a5ae;}
+.karma {position: relative; background-color: white; width: 23%; bottom: 8.5rem; left: 544px;
+  border-style: inset;
+  border-width: 5px 0.1px 0.1px 0.1px;
+  border-radius: 5px;
+  border-top-style: solid;
+  border-top-color:#fcaf4a;
+  border-top-color:hsl(34, 97%, 64%);
+  box-shadow: 0 0 1.5rem 0 #a3a5ae;}
+.calculator {position: relative; background-color: white; width: 23%; bottom: 470px; left: 884px;
+    border-style: inset;
+    border-width: 5px 0.1px 0.1px 0.1px;
+    border-radius: 5px;
+    border-top-style: solid;
+    border-top-color:#549ef2;
+    border-top-color:hsl(212, 86%, 64%);
+    box-shadow: 0 0 1.5rem 0 #a3a5ae;}
